@@ -1,4 +1,4 @@
-Senior High School Student of Signal Village National High School. Just a kid who loves coding.
+Freshman at Univerity of the Philippines - Diliman. Just a kid who loves coding.
 
 <!---
 jeremiahdanielregalario/jeremiahdanielregalario is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
