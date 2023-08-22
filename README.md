@@ -1,4 +1,4 @@
-Freshman at Univerity of the Philippines - Diliman. Just a kid who to loves code.
+Sophomore at University of the Philippines - Diliman. Just a kid who to loves code.
 
 <!---
 jeremiahdanielregalario/jeremiahdanielregalario is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
