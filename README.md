@@ -8,9 +8,9 @@
      <img src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas" />  <img src="https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white" />   <img src="https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python" /> <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=40x40" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   </div>
   
-- I am a computer programmer and has utilized the following programming languages:
+- 💻 I am a computer programmer and has utilized the following programming languages:
   <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" /> <img src="https://img.shields.io/badge/-C/C++-lightpink?style=for-the-badge&logo=c&logoColor=black" /> <img src="" /> <img src="" />  <img src="" /> 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" /> <img src="https://img.shields.io/badge/-C/C++-lightpink?style=for-the-badge&logo=c&logoColor=black" /> <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" /> <img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" />  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white" /> 
   
 </div>
 
@@ -23,6 +23,7 @@
   <!--CSS-->
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
 
   <br />
   <!--Backend-->
@@ -33,6 +34,11 @@
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
   
 </div>
+
+- I also aspire to be an AI developer
+  <div align="center">
+    <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  </div>
 
 ## I'm currently working on 🖥️
 - CRS Prof Predictor: 
