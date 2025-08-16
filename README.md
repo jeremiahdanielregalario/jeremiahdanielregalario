@@ -2,7 +2,7 @@
 
 ## About me 😎
 - 🌻 I am a senior Bachelor of Science in Mathematics from the University of the Philippines - Diliman.
-- 🔢 I am (or at least striving to be) an applied mathematician and a computational/data scientist and has experience on the following technologies
+- 🔢 I am (or at least striving to be) an applied mathematician and a computational/data scientist and has experience on the following technologies:
   <div align="center">
     <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white" /> <img src="https://img.shields.io/badge/typst-239DAD.svg?style=for-the-badge&logo=typst&logoColor=white" /> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
      <img src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas" />  <img src="https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white" />   <img src="https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python" /> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=40x40" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
