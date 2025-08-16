@@ -64,23 +64,24 @@
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
   </div>
 
-## I'm currently working on 🖥️
+## Current Projects 🖥️
+- Computational Geoscience: Utilized FreeFem++.
 - CRS Prof Predictor: A machine learning project that predicts the professor of a class in UPD CRS.
 
-## Past projects I've worked on 📘
+## Past projects 📘
 - [Personal Portfolio](https://): My personal portfolio.
 - Project Vantage: A full-stack web application for automating the process of matching the roster of employees to new projects. This was developed with my co-interns at Pointwest Innovations Corporation as part of the requirements for the internship program.
 - [Credit Card Clustering](https://github.com/): A `Python` script that automates.the farming of skill points in the popular racing game Forza Horizon 5. I made this out of boredom from manually farming skill points.
 - [Webscraping](https://github.com/): A machine learning project that predicts the stress level of an individual given their sleep health and lifestyle habits. We used `Jupyter Notebook`, `Pandas`, `NumPy`, `scikit-learn`, `Matplotlib`, and `Seaborn` for implementing the model. We used `Streamlit` for making the web app. You can access the web app [here](https://stress-level-mlp.streamlit.app/)!
 - [PJDSC 2023](https://github.com/): A data science project that analyzes disinformative tweets to determine the most common reasons why twitter users regard the FEM regime as the "Golden Era." Our team used `Python` and the `Pandas` library.
 
-## Fun facts about me
+## Fun facts
 - ⚡ I love math.
 - 🎮 The games that I play are Genshin Impact, Minecraft, Mobile Legends: Bang Bang and some steam games.
 - ⛹️‍♂️ I play badminton 🏸 during my free timr. I enjoy watching other sports too such as volleyball 🏐, Formula One 🏎️, and tennis 🎾.
 - 🎸 I know how to play the guitar (and I can sing too). I used to be part of the music ministry of our church.
 - 📺 I love watching exciting contents about math and science, special mention to [3Blue1Brown](https://www.youtube.com/3blue1brown) and [Veritasium](https://www.youtube.com/veritasium).
 
-## Contact me
+## Contact
 <a href="[https://www.linkedin.com/in/calvin-james-maximo-685145268/](https://www.linkedin.com/in/jeremiah-daniel-regalario/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 <a href="mailto:jaregalario@up.edu.ph"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
