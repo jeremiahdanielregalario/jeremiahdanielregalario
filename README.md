@@ -68,14 +68,14 @@
 - Computational Geoscience: Utilized FreeFem++.
 - CRS Prof Predictor: A machine learning project that predicts the professor of a class in UPD CRS.
 
-## Past projects 📘
+## Previous Projects 📘
 - [Personal Portfolio](https://): My personal portfolio.
 - Project Vantage: A full-stack web application for automating the process of matching the roster of employees to new projects. This was developed with my co-interns at Pointwest Innovations Corporation as part of the requirements for the internship program.
 - [Credit Card Clustering](https://github.com/): A `Python` script that automates.the farming of skill points in the popular racing game Forza Horizon 5. I made this out of boredom from manually farming skill points.
 - [Webscraping](https://github.com/): A machine learning project that predicts the stress level of an individual given their sleep health and lifestyle habits. We used `Jupyter Notebook`, `Pandas`, `NumPy`, `scikit-learn`, `Matplotlib`, and `Seaborn` for implementing the model. We used `Streamlit` for making the web app. You can access the web app [here](https://stress-level-mlp.streamlit.app/)!
 - [PJDSC 2023](https://github.com/): A data science project that analyzes disinformative tweets to determine the most common reasons why twitter users regard the FEM regime as the "Golden Era." Our team used `Python` and the `Pandas` library.
 
-## Fun facts
+## Fun Facts
 - ⚡ I love math.
 - 🎮 The games that I play are Genshin Impact, Minecraft, Mobile Legends: Bang Bang and some steam games.
 - ⛹️‍♂️ I play badminton 🏸 during my free timr. I enjoy watching other sports too such as volleyball 🏐, Formula One 🏎️, and tennis 🎾.
