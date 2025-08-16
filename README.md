@@ -5,15 +5,10 @@
 - I am (or at least striving to be) an applied mathematician and a computational/data scientist and has experience on the following technologies
   <div align="center">
     <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white" /> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-     <img src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas" />  <img src="https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white" />  <img src="" />  <img src="https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python" /> <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=40x40" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas" />  <img src="https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white" />   <img src="https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python" /> <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=40x40" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   </div>
   
 - I am a computer programmer and has utilized the following programming languages:
-  <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" /> <img src="https://img.shields.io/badge/-C/C++-lightpink?style=for-the-badge&logo=c&logoColor=black" /> <img src="" /> <img src="" />  <img src="" /> 
-  
-</div>
-- I'm a data science enthusiast 
   <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" /> <img src="https://img.shields.io/badge/-C/C++-lightpink?style=for-the-badge&logo=c&logoColor=black" /> <img src="" /> <img src="" />  <img src="" /> 
   
