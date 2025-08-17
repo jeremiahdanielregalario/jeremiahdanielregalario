@@ -66,7 +66,7 @@
 
 ## Current Projects 🖥️
 - Computational Geoscience: Utilized FreeFem++.
-- CRS Prof Predictor: A machine learning project that predicts the professor of a class in UPD CRS.
+- [CRS Prof Predictor](https://github.com/jeremiahdanielregalario/UPD-CRS-Prof-Predictor): A machine learning project that predicts the professor of a math class in [UPD CRS](https://crs.upd.edu.ph/).
 
 ## Previous Projects 📘
 - [Personal Portfolio](https://): My personal portfolio.
