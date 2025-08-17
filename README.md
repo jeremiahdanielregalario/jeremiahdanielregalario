@@ -83,5 +83,5 @@
 - 📺 I love watching exciting contents about math and science, special mention to [3Blue1Brown](https://www.youtube.com/3blue1brown) and [Veritasium](https://www.youtube.com/veritasium).
 
 ## Contact
-<a href="https://www.linkedin.com/in/jeremiah-daniel-regalario/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/jeremiah-daniel-regalario/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 <a href="mailto:jaregalario@up.edu.ph"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
