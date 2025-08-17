@@ -70,6 +70,7 @@
 
 ## Previous Projects 📘
 - [Personal Portfolio](https://): My personal portfolio.
+- [KPOP Next Big Sound](https://github.com/jeremiahdanielregalario/k-nextbigsound): A webscraping project. You can check the link [here](https://k-nextbigsound.vercel.app/index) deployed with vercel.
 - [Credit Card Clustering](https://github.com/): A `Python` script that automates. I made this out of boredom from manually farming skill points.
 - [Webscraping](https://github.com/): A webscraping project.
 - [PJDSC 2023](https://github.com/): A data science project for the Philippine Junior Data Science Challege 2023. Our team used `Python` and the `Pandas` library.
