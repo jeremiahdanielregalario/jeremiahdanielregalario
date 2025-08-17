@@ -66,12 +66,12 @@
 
 ## Current Projects 🖥️
 - Computational Geoscience: Utilized FreeFem++.
-- [CRS Prof Predictor](https://github.com/jeremiahdanielregalario/UPD-CRS-Prof-Predictor): A machine learning project that predicts the professor of a math class in [UPD CRS](https://crs.upd.edu.ph/).
+- [CRS Prof Predictor](https://github.com/jeremiahdanielregalario/UPD-CRS-Prof-Predictor): A machine learning project that predicts the professor of a math class in [UPD CRS](https://crs.upd.edu.ph/).Our team used `Jupyter Notebook`, `Pandas`, `NumPy`, `scikit-learn`, `Matplotlib`, and `Seaborn` for implementing the model. We used `Streamlit` for making the web app. You can access the web app [here](https://upd-crs-prof-predictor-taeq8ccusqtmiz2d6pr4ew.streamlit.app/).
 
 ## Previous Projects 📘
 - [Personal Portfolio](https://): My personal portfolio.
 - [Credit Card Clustering](https://github.com/): A `Python` script that automates. I made this out of boredom from manually farming skill points.
-- [Webscraping](https://github.com/): A machine learning project that predicts the  We used `Jupyter Notebook`, `Pandas`, `NumPy`, `scikit-learn`, `Matplotlib`, and `Seaborn` for implementing the model. We used `Streamlit` for making the web app. You can access the web app [here](https:///).
+- [Webscraping](https://github.com/): A webscraping project.
 - [PJDSC 2023](https://github.com/): A data science project for the Philippine Junior Data Science Challege 2023. Our team used `Python` and the `Pandas` library.
 
 ## Fun Facts
