@@ -66,7 +66,7 @@
 
 ## Current Projects 🖥️
 - Computational Geoscience: Utilized FreeFem++.
-- [CRS Prof Predictor](https://github.com/jeremiahdanielregalario/UPD-CRS-Prof-Predictor): A machine learning project that predicts the professor of a math class in [UPD CRS](https://crs.upd.edu.ph/).Our team used `Jupyter Notebook`, `Pandas`, `NumPy`, `scikit-learn`, `Matplotlib`, and `Seaborn` for implementing the model. We used `Streamlit` for making the web app. You can access the web app [here](https://upd-crs-prof-predictor.streamlit.app/).
+- [CRS Prof Predictor](https://github.com/jeremiahdanielregalario/UPD-CRS-Prof-Predictor): A machine learning project that predicts the professor of a math class in [UPD CRS](https://crs.upd.edu.ph/). Our team used `Jupyter Notebook`, `Pandas`, `NumPy`, `scikit-learn`, `Matplotlib`, and `Seaborn` for implementing the model. For the machine learning algorithm, we used Random Forest classifier with hyperparameter tuning for the best accuracy. We used `Streamlit` for making the web app. You can access the web app [here](https://upd-crs-prof-predictor.streamlit.app/).
 
 ## Previous Projects 📘
 - [Personal Portfolio](https://): My personal portfolio.
